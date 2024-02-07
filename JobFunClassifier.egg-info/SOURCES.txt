@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+JobFunClassifier/__init__.py
+JobFunClassifier.egg-info/PKG-INFO
+JobFunClassifier.egg-info/SOURCES.txt
+JobFunClassifier.egg-info/dependency_links.txt
+JobFunClassifier.egg-info/entry_points.txt
+JobFunClassifier.egg-info/requires.txt
+JobFunClassifier.egg-info/top_level.txt
+JobFunClassifier/model/CCCV_model.bin
+JobFunClassifier/model/JobFunClassifier.py
+JobFunClassifier/model/__init__.py
+JobFunClassifier/processing/data_management.py
+JobFunClassifier/processing/preprocessors.py
